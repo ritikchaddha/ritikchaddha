@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### => My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritikchaddha&theme=omni&background=000000)](https://git.io/streak-stats)]
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=ritikchaddha&theme=omni)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritikchaddha&theme=omni&background=000000)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=ritikchaddha&theme=omni)
